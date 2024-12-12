@@ -1,0 +1,29 @@
+body {
+  background: rgb(2, 0, 36);
+}
+
+.title-name-text {
+  color: #f4f4f7;
+}
+
+.g-col-4 p {
+  margin-top: 10px;
+  color: #f4f4f7;
+  line-height: 1.8;
+}
+.g-col-4 img {
+  padding-top: 40px;
+  width: 800px;
+}
+
+.grid {
+  margin-top: 80px;
+}
+
+.g-col-4 {
+  margin-top: 40px;
+}
+
+.second-title-text {
+  color: #f4f4f7;
+}/*# sourceMappingURL=style.css.map */
