@@ -26,4 +26,49 @@ body {
 
 .second-title-text {
   color: #f4f4f7;
+}
+
+.mb-3 {
+  width: 500px;
+}
+
+label {
+  color: #f4f4f7;
+}
+
+.container-md {
+  margin-top: 100px;
+}
+
+.accordion {
+  margin-top: 50px;
+}
+
+#carouselExampleIndicators {
+  width: 500px;
+  top: 100px;
+  margin: 0 auto;
+}
+
+.row {
+  margin-top: 100px;
+}
+
+.spinner-grow {
+  margin-top: 10px;
+}
+
+.img-fluid {
+  border-radius: 5px;
+}
+
+@media (max-width: 500px) {
+  #carouselExampleIndicators {
+    width: 300px;
+  }
+  .row {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
 }/*# sourceMappingURL=style.css.map */
